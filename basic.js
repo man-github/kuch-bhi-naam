@@ -17,7 +17,7 @@ var body = document.body,
      /* On some mobile browser when the overlay was previously
         opened and scrolled, if you open it again it doesn't
         reset its scrollTop property */
-     overlay.scrollTop = 0;
+     overlay.scrollTop = 10;
 
   }, false);
 
