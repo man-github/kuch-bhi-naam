@@ -1,6 +1,10 @@
 /* to the body element */
 .noscroll { overflow: hidden; }
-
+body{
+	
+	margin:5px;
+}
+	
 .overlay {
    position: fixed;
    overflow-y: scroll;
